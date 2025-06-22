@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudySpot</string>
+
+    <!-- Cinsiyet Seçenekleri -->
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!-- Rol Seçenekleri -->
+    <string-array name="roles_array">
+        <item>Student</item>
+        <item>Academic Staff</item>
+        <item>Library Administrator</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<!-- room_card_item.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_background"
+    android:layout_marginBottom="10dp">
+
+    <TextView
+        android:id="@+id/roomType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oda Tipi"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/peopleLimit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kişi Sınırı"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/timeLimit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Süre Sınırı"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/totalRooms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toplam Oda"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/reserveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu odayı rezerve et"
+        android:layout_marginTop="8dp"/>
+
+</LinearLayout>

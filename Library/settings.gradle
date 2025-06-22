@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS) // veya DISABLE
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Library"
+include ':app'

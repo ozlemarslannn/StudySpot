@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800869613988",
+    "project_id": "libraryreservationsystem-f2a88",
+    "storage_bucket": "libraryreservationsystem-f2a88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800869613988:android:fd146d36b4cbd8b9770131",
+        "android_client_info": {
+          "package_name": "com.example.library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_Zzt3O8OpG-1qLVEOc3gzaRkRX_FBq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
