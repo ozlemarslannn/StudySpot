@@ -22,7 +22,7 @@ Günümüzde mobil teknolojiler, bireylerin bilgiye erişim ve iletişim kurma b
 ## 🔒 Kullanıcı ve Rezervasyon Kuralları
 
 - **Yönetici (Admin)** kullanıcılar, tüm rezervasyonları görüntüleyebilir ve silebilir.  
-- Her kullanıcı, **aynı gün içerisinde, aynı oda tipinden yalnızca bir rezervasyon yapabilir**.  
+- Her kullanıcı, aynı oda tipinden yalnızca bir rezervasyon yapabilir**.  
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -127,7 +127,7 @@ Lokasyon olarak europe-west1 seçebilirsiniz.
 4. Emülatörü başlatın ve projeyi bu cihazda test edin.
 
 
-### Uygulama Ekran Görüntüleri
+### Uygulamanın Bazı Sayfalarının Ekran Görüntüleri
 
 ![Image](https://github.com/user-attachments/assets/683333c7-4c77-4705-97d9-79353e7364f2)
 
