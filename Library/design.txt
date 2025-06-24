@@ -1,13 +1,1 @@
 
-user
-    userId, ad, soyad ...
-room
-    roomId, roomType, minPeople, maxPeople, maxDuration
-roomReservation
-    reservationId, roomType, ownerUserId, roomId, reservationTime, releaseTime, startTime, endTime, invitees
-userId - roomType aynı gün yalnızca 1 tane oda
-    where date = reservationDate and roomType=type and where user=myUser
-    reservationId = user+roomType+reservationDate
-
-ve aynı anda tüm oda tiplerinden yalnızca bi tane
-    where newResStartDate =() = reservationDate and roomType=type and where user=myUser
