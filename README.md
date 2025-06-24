@@ -126,3 +126,14 @@ Lokasyon olarak europe-west1 seçebilirsiniz.
 
 4. Emülatörü başlatın ve projeyi bu cihazda test edin.
 
+
+### Uygulama Ekran Görüntüleri
+
+![Image](https://github.com/user-attachments/assets/f4b707ef-49f0-4750-9907-3dc317affe07)    ![Image](https://github.com/user-attachments/assets/29f21c2d-b172-495a-a81e-520543aea6d8)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/1cf9c08b-2cc4-4ed5-a5ec-c10ee5bde54d)   ![Image](https://github.com/user-attachments/assets/30f95217-1410-4cd5-a156-30b705fd571e)
+
+
